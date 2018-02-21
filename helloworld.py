@@ -5,5 +5,5 @@ import os
 
 if __name__ == '__main__':
     print "hello1"
-    print os.environ["AW_PASSWORD"]
+    print os.environ
     sys.exit(helloworld.main.main())
